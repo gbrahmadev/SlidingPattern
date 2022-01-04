@@ -71,3 +71,4 @@ gradle-app.setting
 # Eclipse Core
 .project
 
+/bin/
